@@ -1,10 +1,10 @@
-# 🔍 WeChat OCR Global Search (全库本地图片搜索)
+# 🔍 Obsidian OCR Global Search (全库本地图片搜索)
 
 > **让你的图片“开口说话”。基于微信本地 OCR 引擎的 Obsidian 全库图片搜索引擎。** *Make your images searchable. A local, privacy-focused global search engine for Obsidian based on WeChat OCR.*
 
 ## 📖 简介 (Introduction)
 
-**Obsidian WeChat OCR Search** 是一款旨在解决“图片内容无法搜索”痛点的插件。它在后台默默为你的图片库建立索引，让你能够像搜索笔记一样搜索图片中的文字。
+**Obsidian Local OCR Search** 是一款旨在解决“图片内容无法搜索”痛点的插件。它在后台默默为你的图片库建立索引，让你能够像搜索笔记一样搜索图片中的文字。
 
 不同于普通的 OCR 插件，它专注于**检索与可视化**体验：
 
