@@ -1,0 +1,9 @@
+{
+	"id": "wechat-ocr-search",
+	"name": "WeChat OCR Global Search",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Index all images in your vault using local OCR server and provide global search.",
+	"author": "zhywjml",
+	"isDesktopOnly": true
+}
