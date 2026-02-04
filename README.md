@@ -34,7 +34,7 @@
 
 在安装本插件之前，请务必下载并运行配套的 OCR 服务端：
 
-👉 **[服务端下载: WeChat-Local-OCR-Serve](https://www.google.com/search?q=https://github.com/zhywjml/WeChat-Local-OCR-Serve)**
+👉 **[服务端下载: WeChat-Local-OCR-Serve](https://github.com/zhywjml/WeChat-Local-OCR-Serve)**
 
 *(请确保 `WeChatOCR_Server.exe` 已启动，且右下角托盘图标可见)*
 
